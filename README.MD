@@ -1,5 +1,7 @@
 NGUYEN NHAT TUAN - Home Test for Android Developer
 
+APK: https://drive.google.com/open?id=1laQ-oDaC2iNCZ33JYEE2rd3douLQqUsQ
+
 
 Deal is a promotion offered in a limited quantity for a short period of time. Implement a screen that lists the Deals in a 2 columns grid.
 
